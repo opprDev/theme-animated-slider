@@ -1,2 +1,2 @@
-# css-animated-flexslider
-CSS Animated Flexslider
+# CSS Animated Flexslider
+
