@@ -1,3 +1,3 @@
 # CSS Animated Flexslider
 
-![alt tag](img/screenshot1.png "Slider Preview")
+![alt tag](assets/screenshot1.png "Slider Preview")
