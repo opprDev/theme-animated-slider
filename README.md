@@ -16,6 +16,8 @@
 <span class="badge-bitcoin"><a href="#" title="Donate once-off to this project using Bitcoin"><img src="https://img.shields.io/badge/bitcoin-donate-yellow.svg" alt="Bitcoin donate button" /></a></span>
 <span class="badge-wishlist"><a href="#" title="Buy an item on our wishlist for us"><img src="https://img.shields.io/badge/wishlist-donate-yellow.svg" alt="Wishlist browse button" /></a></span>
 
+<script async defer src="https://slack.callitech.com/slackin.js"></script>
+
 <!-- /BADGES -->
 
 ![alt tag](assets/screenshot1.png "Slider Preview")
