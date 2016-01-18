@@ -16,6 +16,32 @@
 
 ![alt tag](assets/screenshot1.png "Slider Preview")
 
+Flexslider
+
+Flexslider is an animated CSS slider. This is an easy to use slider, where one 
+can showcase the image gallery and content on a slider. The navigation includes automatic transitions, or 
+next and previous buttons. Its usage may vary from a image slider, banner, carousel or content presenter.
+This was developed using JS and CSS, and it is mostly customizeable, from size, font, 
+and all the different time durations.
+
+The Flexslider includes a dedicated folder for the image source and for the Assets.
+
+QR CODE:
+(COLOCAR ONLINE UM PREVIEW DO SLIDER, E COLOCAR NA PÁGINA UM QR CODE)
+(POSSO FAZER ISSO, SE QUISEREM)
+
+
+ Feature List:
+-Customizeable slider, where mostly everything can be tuned to the customer´s need.
+-Smooth performance.
+-Easily adaptable to any website
+-custom Fade in and out times 
+-Editable Slider direction 
+-Supports a fixed background
+-Easily adaptable font size and and type.
+-Include X Months of support by CalliTech.
+
+
 ##### Authors
 
 Francisco Maria Calisto ([FMCalisto](https://github.com/FMCalisto))
