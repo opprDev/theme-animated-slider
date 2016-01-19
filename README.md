@@ -26,16 +26,31 @@ The Flexslider includes a dedicated folder for the image source and for the Asse
 
 <img src="assets/CSS_Animated_Flexslider_small.png" alt="QR CODE" width="25%">
 
- Feature List:
--Customizeable slider, where mostly everything can be tuned to the customer´s need.
--Smooth performance.
--Easily adaptable to any website
--custom Fade in and out times 
--Editable Slider direction 
--Supports a fixed background
--Easily adaptable font size and and type.
--Include X Months of support by CalliTech.
 
+### Feature List
+
+- Customizeable slider, where mostly everything can be tuned to the customer´s need.
+
+- Smooth performance.
+
+-Easily adaptable to any website.
+
+- Custom Fade in and out times.
+
+- Editable Slider direction.
+
+- Supports a fixed background.
+
+- Easily adaptable font size and and type.
+
+- Include X Months of support by CalliTech.
+
+
+### Project Information
+
+##### Date
+
+11/01/2016
 
 ##### Authors
 
