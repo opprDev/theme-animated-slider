@@ -33,7 +33,7 @@ The Flexslider includes a dedicated folder for the image source and for the Asse
 
 - Smooth performance.
 
--Easily adaptable to any website.
+- Easily adaptable to any website.
 
 - Custom Fade in and out times.
 
