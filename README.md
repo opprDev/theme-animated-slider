@@ -16,13 +16,9 @@
 
 ![alt tag](assets/screenshot1.png "Slider Preview")
 
-Flexslider
-
 Flexslider is an animated CSS slider. This is an easy to use slider, where one 
 can showcase the image gallery and content on a slider. The navigation includes automatic transitions, or 
-next and previous buttons. Its usage may vary from a image slider, banner, carousel or content presenter.
-This was developed using JS and CSS, and it is mostly customizeable, from size, font, 
-and all the different time durations.
+next and previous buttons. Its usage may vary from a image slider, banner, carousel or content presenter. This was developed using [HTML](http://www.w3schools.com/html/), [CSS](http://www.w3schools.com/css/) and [JavaScript](http://www.w3schools.com/js/), and it is mostly customizeable, from size, font, and all the different time durations.
 
 The Flexslider includes a dedicated folder for the image source and for the Assets.
 
