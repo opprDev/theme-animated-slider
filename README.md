@@ -24,7 +24,7 @@ The Flexslider includes a dedicated folder for the image source and for the Asse
 
 QR CODE:
 
-![alt tag](assets/CSS_Animated_Flexslider_small.png "QR CODE" = 100x100)
+<img src="assets/CSS_Animated_Flexslider_small.png" alt="QR CODE" width="50%">
 
  Feature List:
 -Customizeable slider, where mostly everything can be tuned to the customer´s need.
