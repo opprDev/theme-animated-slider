@@ -23,7 +23,7 @@ next and previous buttons. Its usage may vary from a image slider, banner, carou
 The Flexslider includes a dedicated folder for the image source and for the Assets.
 
 QR CODE:
-![alt tag](assets/CSS_Animated_Flexslider_large.png "QR CODE")
+![alt tag](assets/CSS_Animated_Flexslider_small.png "QR CODE")
 
  Feature List:
 -Customizeable slider, where mostly everything can be tuned to the customer´s need.
