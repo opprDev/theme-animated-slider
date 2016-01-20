@@ -14,7 +14,7 @@
 
 <!-- /BADGES -->
 
-![alt tag](assets/inline.png "Slider Preview")
+![alt tag](assets/screenshot1.png "Slider Preview")
 
 Flexslider is an animated CSS slider. This is an easy to use slider, where one 
 can showcase the image gallery and content on a slider. The navigation includes automatic transitions, or 
