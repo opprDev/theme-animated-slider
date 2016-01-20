@@ -14,25 +14,25 @@ Copyright 2016 CalliTech
 
 2. *License Grant*: Licensor hereby grants Licensee a Personal, Non-assignable & non-transferable, Pepetual, Non-commercial, Without the rights to create derivative works, Non-exclusive license, all with accordance with the terms set forth and other legal restrictions set forth in 3rd party software used while running Software.
 
-2.1. *Limited*: Licensee may use Software for the purpose of:
+  2.1. *Limited*: Licensee may use Software for the purpose of:
 
-2.1.1. Running Software on Licensee’s Website[s] and Server[s];
+    2.1.1. Running Software on Licensee’s Website[s] and Server[s];
 
-2.1.2. Allowing 3rd Parties to run Software on Licensee’s Website[s] and Server[s];
+    2.1.2. Allowing 3rd Parties to run Software on Licensee’s Website[s] and Server[s];
 
-2.1.3. Publishing Software’s output to Licensee and 3rd Parties;
+    2.1.3. Publishing Software’s output to Licensee and 3rd Parties;
 
-2.1.4. Distribute verbatim copies of Software’s output (including compiled binaries);
+    2.1.4. Distribute verbatim copies of Software’s output (including compiled binaries);
 
-2.1.5. Modify Software to suit Licensee’s needs and specifications.
+    2.1.5. Modify Software to suit Licensee’s needs and specifications.
 
-2.2. This license is granted perpetually, as long as you do not materially breach it.
+  2.2. This license is granted perpetually, as long as you do not materially breach it.
 
-2.3. *Binary Restricted*: Licensee may sublicense Software as a part of a larger work containing more than Software, distributed solely in Object or Binary form under a personal, non-sublicensable, limited license. Such redistribution shall be limited to unlimited codebases.
+  2.3. *Binary Restricted*: Licensee may sublicense Software as a part of a larger work containing more than Software, distributed solely in Object or Binary form under a personal, non-sublicensable, limited license. Such redistribution shall be limited to unlimited codebases.
 
-2.4. *Non Assignable & Non-Transferable*: Licensee may not assign or transfer his rights and duties under this license.
+  2.4. *Non Assignable & Non-Transferable*: Licensee may not assign or transfer his rights and duties under this license.
 
-2.5. *Non-Commercial*: Licensee may not use Software for commercial purposes. for the purpose of this license, commercial purposes means that a 3rd party has to pay in order to access Software or that the Website that runs Software is behind a paywall.
+  2.5. *Non-Commercial*: Licensee may not use Software for commercial purposes. for the purpose of this license, commercial purposes means that a 3rd party has to pay in order to access Software or that the Website that runs Software is behind a paywall.
 
 3. *Term & Termination*: The Term of this license shall be until terminated. Licensor may terminate this Agreement, including Licensee’s license in the case where Licensee:
 
