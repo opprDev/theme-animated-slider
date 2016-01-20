@@ -61,3 +61,10 @@ Francisco Maria Calisto ([FMCalisto](https://github.com/FMCalisto))
 Inês França Martins
 
 Bruno Cardoso ([bdcardoso](https://github.com/bdcardoso))
+
+
+#### License
+
+For more details about our License agreement please follow:
+
+[LICENSE](https://github.com/CalliTechDev/css-animated-flexslider/blob/master/LICENSE.md)
