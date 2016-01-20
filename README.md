@@ -29,7 +29,7 @@ The Flexslider includes a dedicated folder for the [Image Source](https://github
 
 ### Feature List
 
-- Customizeable slider, where mostly everything can be tuned to the customer´s need.
+- Customizeable slider, where mostly everything can be tuned to the customer's need.
 
 - Smooth performance.
 
@@ -41,9 +41,9 @@ The Flexslider includes a dedicated folder for the [Image Source](https://github
 
 - Supports a fixed background.
 
-- Easily adaptable font size and and type.
+- Easily adaptable font size and type.
 
-- Include X Months of support by CalliTech.
+- Include 12 Months of support by CalliTech.
 
 
 ### Project Information
