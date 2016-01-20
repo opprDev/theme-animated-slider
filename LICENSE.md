@@ -16,15 +16,15 @@ Copyright 2016 CalliTech
 
   2.1. **Limited**: Licensee may use Software for the purpose of:
 
-      2.1.1. Running Software on Licensee’s Website[s] and Server[s];
+    2.1.1. Running Software on Licensee’s Website[s] and Server[s];
 
-      2.1.2. Allowing 3rd Parties to run Software on Licensee’s Website[s] and Server[s];
+    2.1.2. Allowing 3rd Parties to run Software on Licensee’s Website[s] and Server[s];
 
-      2.1.3. Publishing Software’s output to Licensee and 3rd Parties;
+    2.1.3. Publishing Software’s output to Licensee and 3rd Parties;
 
-      2.1.4. Distribute verbatim copies of Software’s output (including compiled binaries);
+    2.1.4. Distribute verbatim copies of Software’s output (including compiled binaries);
 
-      2.1.5. Modify Software to suit Licensee’s needs and specifications.
+    2.1.5. Modify Software to suit Licensee’s needs and specifications.
 
   2.2. This license is granted perpetually, as long as you do not materially breach it.
 
@@ -62,13 +62,13 @@ Copyright 2016 CalliTech
 
   6.2. **Feature Request**: Licensee may request additional features in Software, provided, however, that:
 
-      (i) Licensee shall waive any claim or right in such feature should feature be developed by Licensor;
+    (i) Licensee shall waive any claim or right in such feature should feature be developed by Licensor;
 
-      (ii) Licensee shall be prohibited from developing the feature, or disclose such feature request, or feature, to any 3rd party directly competing with Licensor or any 3rd party which may be, following the development of such feature, in direct competition with Licensor; 
+    (ii) Licensee shall be prohibited from developing the feature, or disclose such feature request, or feature, to any 3rd party directly competing with Licensor or any 3rd party which may be, following the development of such feature, in direct competition with Licensor; 
 
-      (iii) Licensee warrants that feature does not infringe any 3rd party patent, trademark, trade-secret or any other intellectual property right;
+    (iii) Licensee warrants that feature does not infringe any 3rd party patent, trademark, trade-secret or any other intellectual property right;
 
-      (iv) Licensee developed, envisioned or created the feature solely by himself.
+    (iv) Licensee developed, envisioned or created the feature solely by himself.
 
 7. **Liability**:  To the extent permitted under Law, The Software is provided under an AS-IS basis. Licensor shall never, and without any limit, be liable for any damage, cost, expense or any other payment incurred by Licensee as a result of Software’s actions, failure, bugs and/or any other interaction between The Software  and Licensee’s end-equipment, computers, other software or any 3rd party, end-equipment, computer or services.  Moreover, Licensor shall never be liable for any defect in source code written by Licensee when relying on The Software or using The Software’s source code.
 
