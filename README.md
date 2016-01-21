@@ -43,7 +43,7 @@ The Flexslider includes a dedicated folder for the [Image Source](https://github
 
 - Easily adaptable font size and type.
 
-- Include 12 Months of support by CalliTech.
+- Include 2 Months of support by CalliTech.
 
 
 ### Project Information
