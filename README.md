@@ -43,10 +43,10 @@
     <img src="https://img.shields.io/badge/wishlist-donate-yellow.svg" alt="Wishlist browse button" />
   </a>
 </span>
-
-<span class="badge-wishlist">
-  <a href="#" title="Buy an item on our wishlist for us">
-    <img src="https://img.shields.io/badge/wishlist-donate-yellow.svg" alt="Wishlist browse button" />
+<br class="badge-separator" />
+<span class="image">
+  <a href="http://themeforest.net/user/callitechstore/portfolio?ref=CalliTechStore" title="Envato Market">
+    <img src="assets/codecanyon-light-background.png" alt="codecanyon" />
   </a>
 </span>
 
