@@ -49,6 +49,11 @@
     <img src="assets/codecanyon-light-background.png" alt="codecanyon" />
   </a>
 </span>
+<span class="image">
+  <a href="http://caf.calli.tech/" title="link">
+    <img src="assets/add_link.png" alt="link" />
+  </a>
+</span>
 
 <!-- /BADGES -->
 
