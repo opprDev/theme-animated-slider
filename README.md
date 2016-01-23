@@ -88,7 +88,7 @@ The Flexslider includes a dedicated folder for the [Image Source](https://github
 
 ##### Test Page
 
-Please visit ou Test Page and see the project working:
+Please visit ou [Test Page](http://caf.calli.tech/) and see the project working:
 
 <span class="image">
   <a href="http://caf.calli.tech/" title="link">
