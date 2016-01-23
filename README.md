@@ -51,7 +51,7 @@
 </span>
 <span class="image">
   <a href="http://caf.calli.tech/" title="link">
-    <img src="assets/add_link.png" alt="link" width="25%" height="25%"/>
+    <img src="assets/add_link.png" alt="link" width="5%" height="5%"/>
   </a>
 </span>
 
