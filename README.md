@@ -46,7 +46,7 @@
 <br class="badge-separator" />
 <span class="image">
   <a href="http://themeforest.net/user/callitechstore/portfolio?ref=CalliTechStore" title="Envato Market">
-    <img src="assets/codecanyon-light-background.png" alt="codecanyon" width="25%" height="25%" />
+    <img src="assets/codecanyon-light-background.png" alt="codecanyon" width="15%" height="15%" />
   </a>
 </span>
 
