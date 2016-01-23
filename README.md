@@ -46,12 +46,12 @@
 <br class="badge-separator" />
 <span class="image">
   <a href="http://themeforest.net/user/callitechstore/portfolio?ref=CalliTechStore" title="Envato Market">
-    <img src="assets/codecanyon-light-background.png" alt="codecanyon" />
+    <img src="assets/codecanyon-light-background.png" alt="codecanyon" width="5%" height="5%" />
   </a>
 </span>
 <span class="image">
   <a href="http://caf.calli.tech/" title="link">
-    <img src="assets/add_link.png" alt="link" width="5%" height="5%"/>
+    <img src="assets/add_link.png" alt="link" width="5%" height="5%" />
   </a>
 </span>
 
