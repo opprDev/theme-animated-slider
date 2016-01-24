@@ -61,7 +61,7 @@
 </span>
 <span class="image">
   <a href="http://www.codegrape.com/?ref=CalliTechStore" title="CodeGrape">
-    <img src="assets/logo1-codegrape.png" alt="codegrape" width="1%" height="1%" />
+    <img src="assets/logo1-codegrape.png" alt="codegrape" width="5%" height="5%" />
   </a>
 </span>
 
