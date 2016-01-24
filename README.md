@@ -1,4 +1,4 @@
-# CSS Animated Flexslider
+# Animated Flexslider
 
 <!-- BADGES/ -->
 
