@@ -54,6 +54,11 @@
     <img src="assets/codecanyon-light-background.png" alt="codecanyon" width="15%" height="15%" />
   </a>
 </span>
+<span class="image">
+  <a href="https://www.codester.com?ref=CalliTechStore" title="Codester">
+    <img src="assets/logo-v1-transparant.png" alt="codester" width="15%" height="15%" />
+  </a>
+</span>
 
 <!-- /BADGES -->
 
