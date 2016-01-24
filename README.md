@@ -64,6 +64,11 @@
     <img src="assets/logo1-codegrape.png" alt="codegrape" width="5%" height="5%" />
   </a>
 </span>
+<span class="image">
+  <a href="https://www.mojomarketplace.com/?r=CalliTechStore" title="Mojo">
+    <img src="assets/banner_728x90.png" alt="mojo" width="5%" height="5%" />
+  </a>
+</span>
 
 <!-- /BADGES -->
 
