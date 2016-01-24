@@ -59,6 +59,11 @@
     <img src="assets/logo-v1-transparant.png" alt="codester" width="15%" height="15%" />
   </a>
 </span>
+<span class="image">
+  <a href="http://www.codegrape.com/?ref=CalliTechStore" title="CodeGrape">
+    <img src="assets/logo1-codegrape.png" alt="codegrape" width="15%" height="15%" />
+  </a>
+</span>
 
 <!-- /BADGES -->
 
