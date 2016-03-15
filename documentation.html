@@ -1,0 +1,95 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">    
+
+  
+    <title> Documentation | Animated Flexslider</title>
+     
+        <script src="./js/jquery-1.8.0.min.js"></script>
+     
+    
+    	<link href="./css/reset.css" rel="stylesheet">
+    
+     
+        <link href="./css/github.css" rel="stylesheet">
+     
+    
+
+    
+  </head>
+  <body >
+  <header  id="main-header" class="clearfix">  
+    <div  class="page wrapper"> 
+       <div class="col span_6">
+       </div>
+    </div>
+  </header>
+  <div  class="page wrapper main-wrapper">  
+      <script>
+        hljs.tabReplace = '    ';
+        hljs.initHighlightingOnLoad();
+</script>
+<div class="row clearfix logo_shift">
+<div id="docs" class="span_5 col ">
+<h2 id='basic-usage'>Basic Usage</h2>
+<p>1. Upload
+<code>css-animated-flexslider</code>
+folder to your server and add the required files in your page (usually in the <code>head</code> section). Use the online build tool to optimize your slider build and create the main JS file (flexslider.js).</p>
+<pre><code>&lt;!-- basic stylesheet --&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;css/flexslider.css&quot;&gt;
+
+&lt;!-- Plugin requires jQuery 1.8+  --&gt;
+&lt;!-- If you already have jQuery on your page, you shouldn&#39;t include it second time. --&gt;
+&lt;script src=&#39;js/jquery-1.8.3.min.js&#39;&gt;&lt;/script&gt;
+
+&lt;!-- Main slider JS script file --&gt; 
+&lt;!-- Create it with slider online build tool for better performance. --&gt;
+&lt;script src=&quot;js/jquery.royalslider.min.js&quot;&gt;&lt;/script&gt;</code></pre>
+
+<p>2. Add the slider HTML code to the <code>body</code> section. <strong>Every child element will be treated as a slide.</strong> <strong>Type of tag doesn't matter</strong>, it can be an unordered list, just list of divs, whatever. You can learn more about slide types in next sections of documentation.</p>
+<pre><code>&lt;div&gt;
+	&lt;!-- simple image slide --&gt;
+	&lt;img src=&quot;image.png&quot; /&gt;
+
+	&lt;!-- HTML content slide --&gt;
+	&lt;p&gt;Content goes here&lt;/p&gt;
+
+	&lt;!-- image and content --&gt;
+	&lt;div&gt;
+		&lt;img src=&quot;image.png&quot; /&gt;
+		&lt;p&gt;Some content after...&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;!-- HTML content --&gt;
+	&lt;div&gt;
+		Put any HTML content here
+	&lt;/div&gt;
+
+&lt;/div&gt;</code></pre>
+<p>3. Initialize the slider usually at the end of the <code>body</code> section.</p>
+<pre><code>&lt;script&gt;
+	$('.flexslider').flexslider({
+		animation: "slide",
+		controlNav: false
+	});
+&lt;/script&gt;</code></pre>
+<p>4. Apply size to slider via CSS (optional). If you want slider to scale height based on width, take a look at the <a href='#options'>autoScaleSlider option</a>.</p>
+<pre><code>.flexslider {
+	width: 790px;
+	margin: 0 auto;
+	box-shadow: none;
+}</code></pre>
+</div>
+</div>
+  </div>
+  <div class="wrapper page">
+     <footer class="row clearfix" id="main-footer">
+    <div class="col span_6">
+      <p class="copy">© <a href="http://calli.tech">CalliTech</a></p>
+    </div>
+  </footer>
+  </body>
+</html>
