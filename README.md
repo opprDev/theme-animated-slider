@@ -1,15 +1,15 @@
-# Animated Flexslider
+# Theme Animated Slider
 
 <!-- BADGES/ -->
 
 <span class="badge-travisci">
-  <a href="http://travis-ci.org/CalliTechDev/css-animated-flexslider" title="Check this project's build status on TravisCI">
-    <img src="https://img.shields.io/travis/CalliTechDev/css-animated-flexslider/master.svg" alt="Travis CI Build Status" />
+  <a href="http://travis-ci.org/CalliTechDev/theme-animated-slider" title="Check this project's build status on TravisCI">
+    <img src="https://img.shields.io/travis/CalliTechDev/theme-animated-slider/master.svg" alt="Travis CI Build Status" />
   </a>
 </span>
 <span class="badge-npmdownloads">
-  <a href="https://npmjs.org/package/css-animated-flexslider" title="View this project on NPM">
-    <img src="https://img.shields.io/npm/dm/css-animated-flexslider.svg" alt="NPM downloads" />
+  <a href="https://npmjs.org/package/theme-animated-slider" title="View this project on NPM">
+    <img src="https://img.shields.io/npm/dm/theme-animated-slider.svg" alt="NPM downloads" />
   </a>
 </span>
 <br class="badge-separator" />
@@ -74,11 +74,11 @@
 
 ![alt tag](assets/screenshot1.png "Slider Preview")
 
-Flexslider is an animated CSS slider. This is an easy to use slider, where one 
+Theme Animated Theme is an animated CSS slider. This is an easy to use slider, where one 
 can showcase the image gallery and content on a slider. The navigation includes automatic transitions, or 
 next and previous buttons. Its usage may vary from a image slider, banner, carousel or content presenter. This was developed using [HTML](http://www.w3schools.com/html/), [CSS](http://www.w3schools.com/css/) and [JavaScript](http://www.w3schools.com/js/), and it is mostly customizable, from size, font, and all the different time durations.
 
-The Flexslider includes a dedicated folder for the [Image Source](https://github.com/CalliTechDev/css-animated-flexslider/tree/master/img) and for the [Assets](https://github.com/CalliTechDev/css-animated-flexslider/tree/master/img).
+The Flexslider includes a dedicated folder for the [Image Source](https://github.com/CalliTechDev/theme-animated-slider/tree/master/img) and for the [Assets](https://github.com/CalliTechDev/theme-animated-slider/tree/master/img).
 
 **QR CODE:**
 
@@ -133,4 +133,4 @@ Bruno Cardoso ([bdcardoso](https://github.com/bdcardoso))
 
 #### License
 
-For more details about our License agreement please read the [LICENSE](https://github.com/CalliTechDev/css-animated-flexslider/blob/master/LICENSE.md).
+For more details about our License agreement please read the [LICENSE](https://github.com/CalliTechDev/theme-animated-slider/blob/master/LICENSE.md).
