@@ -1,0 +1,187 @@
+$white: #fff;
+$red: #ad0000;
+$yellow: #E7B341;
+$orange: #C28035;
+
+%red-hover {
+  &:hover {background: #940000;}
+  &:active {background: #c70000;}
+}
+
+/*Typography*/
+html {font-size: 16px;}
+body {font-family: sans-serif;}
+h1 {font-size: 2em;}
+h2 {font-size: 1.75em;}
+h3 {font-size: 1.5em;}
+p {font-size: 1em;}
+/*Base*/
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+/*Layout*/
+body {background: #eee;}
+* {box-sizing: border-box;}
+.wrapper {
+  float: center;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 960px;
+  background: #eee;
+  margin-top: 100px;
+}
+nav,
+section,
+footer {
+  float: left;
+  width: 100%;
+  margin-bottom: 100px;
+}
+a {
+  width: 100%;
+  color: $white;
+  text-align: center;
+  text-decoration: none;
+}
+/*Navigation*/
+nav {
+  position: relative;
+  top: -32px;
+  //margin-bottom: 1em;
+  //background: $red;
+  transition: top .5s;
+}
+nav a {@extend %red-hover;}
+/*Navigation mechanism*/
+[type="checkbox"] {display: none;}
+[name="nav-checkbox"]:checked + nav {top: 0;}
+.navigation {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  background: $red;
+  //height: 0;
+  //border-bottom: .1em dashed darken($red, 5%);
+  overflow: hidden;
+}
+.navigation a {
+  display: block;
+  padding: .5em 1em;
+}
+nav .fa-phone {
+  display: inline;
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 32px;
+  color: #fff;
+  text-align: center;
+  @extend %red-hover;
+}
+nav .fa-phone:hover ~ .soc-media,
+[name="soc-media-check"]:checked + .soc-media {height: 128px;}
+.soc-media {
+  //display: none;
+  position: absolute;
+  right: 0;
+  width: 32px;
+  height: 0;
+  background: $red;
+  overflow: hidden;
+  transition: height .5s;
+}
+nav .fa,
+footer .fa {padding: .5em 0;}
+nav label[for="nav-checkbox"] {
+  display: block;
+  padding: .5em 0;
+  width: 2em;
+  background: $red;
+  color: $white;
+  font-size: 1.75em;
+  text-align: center;
+  @extend %red-hover;
+}
+/*Section*/
+section {margin-top: -2em;}
+.row {
+  float: left;
+  margin: .3em 0;
+  width: 100%;
+}
+p {
+  color: $red;
+  text-align: center;
+}
+/*Cards*/
+.card {
+  float: left;
+  width: 33%;
+  height: 400px;
+  background: $white;
+  color: $red;
+  &:nth-child(2) {margin: 0 .3em;}
+}
+.card img {
+  width: 100%;
+  height: 208px;
+}
+.card h1 {
+  float: center;
+  padding: .1em;
+  text-align: center;
+}
+.card p {
+  clear: both;
+  padding: .35em;
+  font-size: 85%;
+  text-align: center;
+}
+.card span {
+  float: right;
+  margin-top: 1em;
+  padding: .35em;
+  color: #333;
+  font-size: 72.5%;
+}
+.card button {
+  display: block;
+  margin: 5.95em auto;
+  padding: .5em 8.25em;
+  //width: 100%;
+  background: $red;
+  color: $white;
+  border: 0;
+  //border-bottom: 3px solid darken($red, 5%);
+  //border-radius: 3px;
+  text-transform: uppercase;
+  text-align: center;
+  @extend %red-hover;
+}
+.fa-refresh {
+  display: block;
+  width: 20px;
+  margin: auto;
+  color: $red;
+  text-align: center;
+  transition: transform .5s;
+  &:hover {
+    transform: rotate(360deg);
+  }
+}
+.load-more {
+  margin: .5em 0;
+  color: $red;
+  font-size: 90%;
+  font-style: italic;
+}
+/*Footer*/
+footer {
+  background: $red;
+  a {color: $white;}
+}
+footer :target {height: 100%;}
