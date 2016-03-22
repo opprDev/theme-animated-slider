@@ -56,7 +56,7 @@
 </span>
 <span class="image">
   <a href="https://creativemarket.com/CalliTechStore?u=CalliTechStore" title="Creative Market">
-    <img src="assets/CreativeMarket-Logo.png" alt="envato market" width="15%" height="15%" />
+    <img src="assets/CreativeMarket-Logo.png" alt="envato market" width="7.5%" height="7.5%" />
   </a>
 </span>
 <span class="image">
