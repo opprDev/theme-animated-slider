@@ -79,6 +79,8 @@
 
 ![alt tag](assets/screenshot1.png "Slider Preview")
 
+### Description
+
 The Theme Animated Slider is an animated CSS slider. This is an easy to use slider, where one 
 can showcase the image gallery and content on a slider. The navigation includes automatic transitions, or 
 next and previous buttons. Its usage may vary from a image slider, banner, carousel or content presenter. This was developed using [HTML](http://www.w3schools.com/html/), [CSS](http://www.w3schools.com/css/) and [JavaScript](http://www.w3schools.com/js/), and it is mostly customizable, from size, font, and all the different time durations.
